@@ -1,5 +1,5 @@
 context:
-  version: "0.11.0"
+  version: "0.11.1"
 
 package:
   name: rslib
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@rslib/core/-/core-${{ version }}.tgz
-  sha256: e9a8695fd08f9a69509f1add8a5d2cadff2eccc458a8cd34a349e516e9b35c20
+  sha256: 3303793a091e52c860741a613b29e0a30030bf2f1a0b383426eaf6964f86b485
 
 build:
   number: 0
